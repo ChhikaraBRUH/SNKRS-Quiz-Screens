@@ -1,0 +1,90 @@
+/* Importing Main CSS */
+
+@import "/main.css";
+
+/* Making Body Full Height */
+
+body {
+	min-height: 100vh;
+}
+
+/* Hero Section */
+
+.hero-section {
+	background-color: #4158d0;
+	background-image: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-evenly;
+	width: 100%;
+	height: max-content;
+}
+
+/* Hero Text */
+
+.hero-text {
+	color: var(--white);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: var(--space-lg);
+}
+
+.hero-text h1 {
+	font-size: 4rem;
+	text-align: center;
+}
+
+.hero-text p {
+	font-size: 1.5rem;
+}
+
+/* Rules Section */
+
+.rules-section {
+	display: flex;
+	flex: 1 1 auto;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Rules Container */
+
+.rules-container {
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-sm);
+	background-color: var(--white);
+	border-radius: var(--border-rad-lg);
+	padding: var(--space-lg);
+	margin: var(--space-lg);
+}
+
+/* Rules List */
+
+.rules-container ul {
+	margin-left: var(--space-sm);
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-xs);
+}
+
+.rules-container ul li {
+	cursor: auto;
+}
+
+.rules-container ul li:hover {
+	color: inherit;
+}
+
+/* Card Button */
+
+.rules-container a {
+	text-decoration: none;
+}
+
+.card-button {
+	width: fit-content;
+	color: var(--white);
+}
