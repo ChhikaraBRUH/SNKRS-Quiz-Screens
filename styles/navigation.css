@@ -1,0 +1,20 @@
+/* Navigation Container */
+
+.nav-container {
+	align-items: center;
+	padding: var(--space-sm);
+	flex-wrap: wrap;
+}
+
+/* Right Nav */
+
+.right-nav {
+	align-items: center;
+}
+
+/* Login Button */
+
+.login-btn {
+	padding: 0.25rem;
+	box-shadow: none;
+}
