@@ -1,0 +1,9 @@
+/* Importing Question CSS */
+
+@import "/styles/question.css";
+
+/* Question Container */
+
+.question-container {
+	width: 60vw;
+}
