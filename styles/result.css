@@ -2,8 +2,54 @@
 
 @import "/styles/question.css";
 
-/* Question Container */
+/* Result Section */
 
-.question-container {
-	width: 60vw;
+.result-section {
+	display: flex;
+	flex-direction: column;
+	flex: 1 1 auto;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Result Container */
+
+.result-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 70%;
+	gap: var(--space-md);
+	background-color: var(--white);
+	border-radius: var(--border-rad-lg);
+	padding: var(--space-lg);
+	margin: var(--space-lg);
+}
+
+/* Result Item */
+
+.result-item {
+	display: flex;
+	gap: var(--space-xs);
+}
+
+/* Question Option Hover */
+
+.question-option:hover {
+	background-color: var(--black);
+	cursor: default;
+}
+
+/* Correct Option */
+
+.correct-option,
+.correct-option:hover {
+	background-color: var(--green);
+}
+
+/* Wrong Option Selected */
+
+.wrong-selected-option,
+.wrong-selected-option:hover {
+	background-color: var(--red);
 }
