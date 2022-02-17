@@ -1,4 +1,4 @@
-const allOptions = document.querySelectorAll(".question-option");
+const allOptions = document.querySelectorAll(".answer-option");
 
 // Adding Click Event Listener to remove selected-option class from all options first and then add that class to the clicked option
 
