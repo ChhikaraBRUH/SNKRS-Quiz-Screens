@@ -33,9 +33,9 @@
 	gap: var(--space-xs);
 }
 
-/* Question Option Hover */
+/* Answer Option Hover */
 
-.question-option:hover {
+.answer-option:hover {
 	background-color: var(--black);
 	cursor: default;
 }

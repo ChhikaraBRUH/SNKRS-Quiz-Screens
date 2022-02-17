@@ -48,7 +48,7 @@ body {
 	gap: var(--space-sm);
 }
 
-.question-option {
+.answer-option {
 	font-size: 1rem;
 	font-weight: 500;
 	width: 50%;
@@ -60,7 +60,7 @@ body {
 	cursor: pointer;
 }
 
-.question-option:hover {
+.answer-option:hover {
 	background-color: var(--secondary-color);
 }
 
