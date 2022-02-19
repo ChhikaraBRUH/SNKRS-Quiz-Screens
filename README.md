@@ -6,10 +6,13 @@ An online quiz platform to test whether you are a true sneakerhead or not.
 
 </div>
 
+<br/>
+
 ### How to play?
 
 Go to [SNKRS QUIZ](https://snkrs-quiz-screens.netlify.app/) and try your hand at about the history, future and the ultimate sneakerhead quizzes.
 
+<br/>
 
 ### Different Screens
 
@@ -18,6 +21,7 @@ Go to [SNKRS QUIZ](https://snkrs-quiz-screens.netlify.app/) and try your hand at
 3. [Question Page](https://snkrs-quiz-screens.netlify.app/pages/questions/question1.html)
 4. [Result Page](https://snkrs-quiz-screens.netlify.app/pages/result.html)
 
+<br/>
 
 ### Built With
 
@@ -26,7 +30,13 @@ Go to [SNKRS QUIZ](https://snkrs-quiz-screens.netlify.app/) and try your hand at
 - JavaScript
 - [SNKRS UI Library](https://snkrs-ui.netlify.app)
 
+<br/>
 
+### Quiz Walkthrough
+
+<img src="assets/SNKRS-Quiz-Screens.gif" />
+
+<br/>
 <hr/>
 
 <!-- SOCIAL LINKS -->
@@ -35,6 +45,3 @@ Go to [SNKRS QUIZ](https://snkrs-quiz-screens.netlify.app/) and try your hand at
 > GitHub [@ChhikaraBRUH](https://github.com/ChhikaraBRUH) &nbsp;&middot;&nbsp;
 > Twitter [@ChhikaraBRUH](https://twitter.com/ChhikaraBRUH) &nbsp;&middot;&nbsp;
 > LinkedIn [@ChaitanyaChhikara](https://www.linkedin.com/in/chaitanyachhikara)
-
-
-
